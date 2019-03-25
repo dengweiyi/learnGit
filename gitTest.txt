@@ -3,3 +3,4 @@ git测
 修改一下 再修改一下
 know stage
 这一行add
+这一行不add
